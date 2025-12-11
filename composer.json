@@ -1,0 +1,20 @@
+{
+    "name": "vendor/my-composer-package",
+    "description": "Mô tả về gói Composer của bạn",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\BaseService-DucHoang\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hoang Nguyen",
+            "email": "nguyenduchoang12c5@gmail.com"
+        }
+    ]
+}
