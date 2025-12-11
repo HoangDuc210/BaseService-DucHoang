@@ -1,10 +1,10 @@
 {
-    "name": "vendor/BaseService-DucHoang",
+    "name": "vendor/baseservice-duc-hoang",
     "description": "BaseService",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Vendor\\BaseService-DucHoang\\": "src/"
+            "Vendor\\baseservice-duc-hoang\\": "src/"
         }
     },
     "require": {
